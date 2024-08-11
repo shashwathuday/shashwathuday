@@ -12,6 +12,6 @@ I'm Shashwath Udaya Kumar, a highly skilled software developer with experience i
 ![Cyberpunk GIF - Cyberpunk - Discover   Share GIFs](https://github.com/user-attachments/assets/a0119f26-fd76-473e-9804-18959fe7b58f)__
 
 Get in Touch__
-LinkedIn: Shashwath Udaya Kumar__
+LinkedIn: Shashwath Udaya Kumar\
 GitHub: shashwathuday__
 Email: shashwathuday@gmail.com__
