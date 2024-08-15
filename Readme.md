@@ -6,7 +6,7 @@ I'm Shashwath Udaya Kumar, a highly skilled software developer with experience i
 🌱 Currently Learning: Advanced cloud architecture and AI integration\
 👯 Looking to Collaborate On: Web applications, IoT projects, and cloud-based solutions\
 💬 Ask Me About: Java, Spring Boot, React, AWS, and RESTful API development\
-📫 How to Reach Me: shashwathuday@gmail.com | LinkedIn\
+📫 How to Reach Me: shashwathuday@gmail.com \
 ⚡ Fun Fact: I have a keen interest in smart home automation systems and have worked on IoT-based projects.
 
 ![Cyberpunk GIF - Cyberpunk - Discover   Share GIFs](https://github.com/user-attachments/assets/a0119f26-fd76-473e-9804-18959fe7b58f)
