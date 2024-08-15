@@ -13,5 +13,5 @@ I'm Shashwath Udaya Kumar, a highly skilled software developer with experience i
 
 Get in Touch\
 LinkedIn: Shashwath Udaya Kumar\
-GitHub: https://github.com/shashwathuday\
+GitHub: https://github.com/shashwathuday \
 Email: shashwathuday@gmail.com
