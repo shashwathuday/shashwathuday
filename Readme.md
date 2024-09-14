@@ -1,7 +1,9 @@
 Welcome to My GitHub! 👋
 
 About Me:\
-Shashwath Udaya Kumar\
+Hi I'm Shashwath Udaya Kumar\
+
+Education:
 
 Northeastern University Jan 2024 - May 2026\
 Master’s in Computer Science Portland, Maine, United States\
