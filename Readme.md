@@ -1,14 +1,15 @@
 Welcome to My GitHub! 👋
 
 About Me:\
-I'm Shashwath Udaya Kumar\
+Shashwath Udaya Kumar\
+
 Northeastern University Jan 2024 - May 2026\
 Master’s in Computer Science Portland, Maine, United States\
-◦ Relevant Coursework: Programming Design Paradigm, Data Structures and Algorithm, Machine Learning, Web\
-Development
+◦ Relevant Coursework: Programming Design Paradigm, Data Structures and Algorithm, Machine Learning, WebDevelopment\
 • Texas Tech University Aug 2018 - May 2022\
+
 Bachelor’s in Computer Science Lubbock, Texas, United States\
-◦ Relevant Coursework: Human-Computer Interaction, Software Engineering I, Object-Oriented Programming,\
+◦ Relevant Coursework: Human-Computer Interaction, Software Engineering I, Object-Oriented Programming,
 Concepts Of Programming Languages, Computer Architecture, Design/Analysis Of Algorithms\
 
 🌱 Currently Learning: Cloud architecture and AI integration\
