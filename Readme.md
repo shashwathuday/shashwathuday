@@ -1,7 +1,7 @@
 Welcome to My GitHub! 👋
 
 About Me:\
-Hi I'm Shashwath Udaya Kumar \
+Hi I'm Shashwath Udaya Kumar 
 
 Education:
 
