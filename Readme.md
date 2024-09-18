@@ -14,6 +14,12 @@ Bachelor’s in Computer Science Lubbock, Texas, United States \
 ◦ Relevant Coursework: Human-Computer Interaction, Software Engineering I, Object-Oriented Programming,
 Concepts Of Programming Languages, Computer Architecture, Design/Analysis Of Algorithms 
 
+Programming in Python
+Issued by Meta
+Issued Jul 2024
+Credential ID: EZLZFMKAT8R5
+Skills: Python, Programming in PythonView certification
+
 🌱 Currently Learning: Cloud architecture and AI integration\
 👯 Looking to Collaborate On: Web applications and cloud-based solutions\
 💬 Ask Me About: Java, Spring Boot, React, AWS, and RESTful API development\
