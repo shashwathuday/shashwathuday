@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shashwath UdayaKumar</h1>
-<h3 align="center"><a href="udayakumar.s@northeastern.edu ">udayakumar.s@northeastern.edu</h3>
+<h3 align="center"><a href="mailto:udayakumar.s@northeastern.edu ">udayakumar.s@northeastern.edu</h3>
 
 Education:
 Northeastern University Jan 2024 - May 2026 \
