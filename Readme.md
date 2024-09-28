@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shashwath UdayaKumar</h1>
-<h3 align="center">A passionate frontend developer from</h3>
+<h3 align="center"><a href="https://github.com/ryo-ma/github-profile-trophy">A passionate frontend developer from</h3>
 
 Education:
 Northeastern University Jan 2024 - May 2026 \
