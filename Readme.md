@@ -1,16 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shashwath UdayaKumar</h1>
 <h3 align="center"><a href="mailto:udayakumar.s@northeastern.edu ">udayakumar.s@northeastern.edu</h3>
-
-Education:
-Northeastern University Jan 2024 - May 2026 \
-Master’s in Computer Science Portland, Maine, United States\
-◦Relevant Coursework: Programming Design Paradigm, Data Structures and Algorithm, Machine Learning, WebDevelopment 
-
-Texas Tech University Aug 2018 - May 2022 \
-Bachelor’s in Computer Science Lubbock, Texas, United States \
-◦ Relevant Coursework: Human-Computer Interaction, Software Engineering I, Object-Oriented Programming,
-Concepts Of Programming Languages, Computer Architecture, Design/Analysis Of Algorithms 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashwathuday&label=Profile%20views&color=0e75b6&style=flat" alt="shashwathuday" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashwathuday" alt="shashwathuday" /></a> </p>
