@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shashwath UdayaKumar</h1>
-<h3 align="center"><a href="mailto:udayakumar.s@northeastern.edu ">udayakumar.s@northeastern.edu</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=shashwathuday&label=Profile%20views&color=0e75b6&style=flat" alt="shashwathuday" /> </p>
-
+<h3 align="center"><a href="mailto:udayakumar.s@northeastern.edu ">shashwathudaykumar@gmail.com</h3>
 
 <p align="left">
 </p>
