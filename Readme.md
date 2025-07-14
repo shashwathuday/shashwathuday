@@ -2,7 +2,6 @@
 <h3 align="center"><a href="mailto:udayakumar.s@northeastern.edu ">udayakumar.s@northeastern.edu</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shashwathuday&label=Profile%20views&color=0e75b6&style=flat" alt="shashwathuday" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashwathuday" alt="shashwathuday" /></a> </p>
 
 <p align="left">
 </p>
